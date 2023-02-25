@@ -1,4 +1,4 @@
-### *Oiie! Eu sou o Eliandro* 👋
+### *Oi! Eu sou o Eliandro* 👋
 
 <img align="right" alt="iie" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwH5VMdseIq7WHnspCT3xSs4">
 
