@@ -1,4 +1,4 @@
-### Olá, eu sou o Eliandro!
+<!-- # Olá, eu sou o Eliandro! -->
 # "ad astra per aspera"
 <!-- <img align="right" alt="iie" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwH5VMdseIq7WHnspCT3xSs4"> -->
 <!-- - 😁 Linguagens que eu conheço: 
