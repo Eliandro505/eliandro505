@@ -1,8 +1,6 @@
 ### "ad astra per aspera"
 <!-- <img align="right" alt="iie" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwH5VMdseIq7WHnspCT3xSs4"> -->
-
-- Tenho 18 anos e estou voltando a aprender o básico de programação
-- Viso aprender tanto Python quanto JavaScript
+Olá, eu sou o Eliandro!
 <!-- - 😁 Linguagens que eu conheço: 
 
 <img height="25em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  <img height="25em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1">  <img height="25em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
