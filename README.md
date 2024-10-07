@@ -4,12 +4,12 @@ Sou apenas um aluno de Engenharia de Software que se chama Eliandro | Gosto de c
 <hr>
 <!-- <img align="right" alt="iie" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwH5VMdseIq7WHnspCT3xSs4"> -->
 <div>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Eliandro-Gomes&theme=dark&show_icons=true&hide_title=true&locale=pt-br&rank_icon=github" />
-  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eliandro-Gomes&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Eliandro-Gomes&theme=dark&show_icons=true&hide_title=true&locale=pt-br&rank_icon=github" />
+  <img height=170 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eliandro-Gomes&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br" />
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-1696.gif"/>
+  <img align="right" height="170" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-1696.gif"/>
   <hr>
   <b>Aprendendo: </b>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
