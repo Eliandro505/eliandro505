@@ -1,5 +1,5 @@
 # PER ASPERA AD ASTRA
-Sou apenas um aluno de Engenharia de Software que se chama Eliandro | Gosto de café 👍
+| overwrite | 
 
 <hr>
 <!-- <img align="right" alt="iie" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwH5VMdseIq7WHnspCT3xSs4"> -->
