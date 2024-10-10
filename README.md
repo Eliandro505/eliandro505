@@ -4,8 +4,8 @@
 <hr>
 <!-- <img align="right" alt="iie" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwH5VMdseIq7WHnspCT3xSs4"> -->
 <div>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Eliandro-Gomes&theme=dark&show_icons=true&hide_title=true&locale=pt-br&rank_icon=github" />
-  <img height=170 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eliandro-Gomes&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br&hide=" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Eliandro-Gomes&theme=dark&show_icons=true&hide_title=true&locale=pt-br&rank_icon=github" />
+  <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eliandro-Gomes&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br&hide=" />
 </div>
 
 <div style="display: inline_block"><br>
