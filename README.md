@@ -1,11 +1,11 @@
 # PER ASPERA AD ASTRA
-| overwrite | 
+<!-- | overwrite | -->
 
 <hr>
 <!-- <img align="right" alt="iie" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwH5VMdseIq7WHnspCT3xSs4"> -->
 <div>
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Eliandro-Gomes&theme=dark&show_icons=true&hide_title=true&locale=pt-br&rank_icon=github" />
-  <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eliandro-Gomes&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br&hide=" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=eliandro404&theme=dark&show_icons=true&hide_title=true&locale=pt-br&rank_icon=github" />
+  <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliandro404&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br&hide=" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,7 +23,7 @@
 
 <div style="display: inline_block">  
   <a href = "mailto:eliandro.gomes42@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = ""><img align="center" src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge" target="_blank"></a>
+<!--    <a href = ""><img align="center" src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge" target="_blank"></a>
   <a href = ""><img align="center" src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge" target="_blank"></a>
   <hr> 
   
