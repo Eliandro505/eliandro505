@@ -12,8 +12,10 @@
 <hr>
 
 <div align="center">
+  <!--
   <img align="right" height="170" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-1696.gif"/>
   <img align="left" height="170" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-1696.gif"/>
+  -->
   
 ### **Linguagens e Ferramentas:**
 
@@ -30,6 +32,7 @@
 
 ###
 
+<!--
 <div align="center">
   
 ### **CNTKT:**
