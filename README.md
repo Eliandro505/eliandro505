@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9771b5&heigh=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9771b5&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Eliandro;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9771b5&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Eliandro;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- <img align="right" alt="iie" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwH5VMdseIq7WHnspCT3xSs4"> -->
 
