@@ -24,7 +24,7 @@
   ![HTML](https://img.shields.io/badge/-CSS-151515?style=for-the-badge&logo=css3&logoColor=2965f1)
   ![HTML](https://img.shields.io/badge/-JS-151515?style=for-the-badge&logo=javascript)
   ![HTML](https://img.shields.io/badge/-React-151515?style=for-the-badge&logo=react)
-  
+  ![HTML](https://img.shields.io/badge/-Java-151515?style=for-the-badge&logo=java)
   ![HTML](https://img.shields.io/badge/-Postgres-151515?style=for-the-badge&logo=postgresql)
 
   <hr>
