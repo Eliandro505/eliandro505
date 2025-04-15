@@ -5,8 +5,8 @@
 <!-- <img align="right" alt="iie" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwH5VMdseIq7WHnspCT3xSs4"> -->
 
 <div align="center">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=eliandro404&theme=dark&show_icons=true&hide_title=true&locale=pt-br&rank_icon=github&hide_border=true&icon_color=9771b5" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=eliandro404&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br&hide_border=true"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=eliandro505&theme=dark&show_icons=true&hide_title=true&locale=pt-br&rank_icon=github&hide_border=true&icon_color=9771b5" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=eliandro505&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br&hide_border=true"/>
 </div>
 
 <hr>
