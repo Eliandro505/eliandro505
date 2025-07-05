@@ -1,14 +1,14 @@
 <!-- ────────────────────────── Header ────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9771b5&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e4e7eb&height=120&section=header"/>
 
 <!-- Animated greeting -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9771b5&size=35&center=true&vCenter=true&width=1000&lines="Talk+is+cheap.+Show+me+the+code"+-+Linus+Torvalds&pause=20000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4e7eb&size=35&center=true&vCenter=true&width=1000&lines="Talk+is+cheap.+Show+me+the+code"+-+Linus+Torvalds&pause=20000)](https://git.io/typing-svg)
 
 <div align="center">
 
 <!-- GitHub stats -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=eliandro505&theme=dark&show_icons=true&hide_title=true&locale=en&rank_icon=github&hide_border=true&icon_color=9771b5" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliandro505&layout=compact&langs_count=8&card_width=320&theme=dark&locale=en&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=eliandro505&theme=dark&show_icons=true&hide_title=true&locale=en&rank_icon=github&hide_border=true&icon_color=e4e7eb&bg_color=3c434d&text_color=e4e7eb" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliandro505&layout=compact&langs_count=8&card_width=320&theme=dark&locale=en&hide_border=true&bg_color=3c434d&text_color=e4e7eb" />
 
 </div>
 
@@ -40,10 +40,10 @@
 
 ### 📬 Contact
 <a href="mailto:eliandro.gomes42@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-9771b5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-3d444d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
 
 <!-- ────────────────────────── Footer ────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9771b5&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e4e7eb&height=120&section=footer"/>
