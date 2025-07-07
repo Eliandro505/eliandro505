@@ -2,7 +2,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e4e7eb&height=120&section=header"/>
 
 <!-- Animated greeting -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4e7eb&size=35&center=true&vCenter=true&width=1000&lines="Talk+is+cheap.+Show+me+the+code"+-+Linus+Torvalds&pause=20000)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4e7eb&size=35&center=true&vCenter=true&width=1000&lines="Talk+is+cheap.+Show+me+the+code"+-+Linus+Torvalds&pause=30000)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -26,24 +27,6 @@
 </div>
 
 <hr>
-
-<div>
-
-### 📚 Currently Learning
-- 📱 React Native for cross-platform apps  
-  
-</div>
-
-<hr>
-
-<div align="center">
-
-### 📬 Contact
-<a href="mailto:eliandro.gomes42@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-3d444d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-</div>
 
 <!-- ────────────────────────── Footer ────────────────────────── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e4e7eb&height=120&section=footer"/>
